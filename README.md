@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3909-compare-sums-of-bitonic-parts) |
+## Hash Table
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Sorting
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Counting
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## Enumeration
+|  |
+| ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 <!---LeetCode Topics End-->
