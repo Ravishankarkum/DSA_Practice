@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2427-number-of-common-factors) |
 | [3908-valid-digit-number](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3908-valid-digit-number) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2427-number-of-common-factors) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Bit Manipulation
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
