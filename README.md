@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
