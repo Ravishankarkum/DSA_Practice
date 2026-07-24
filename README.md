@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2427-number-of-common-factors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3908-valid-digit-number) |
 ## Array
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3838-weighted-word-mapping](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
 |  |
