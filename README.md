@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -127,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
