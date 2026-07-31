@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2427-number-of-common-factors](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2427-number-of-common-factors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3838-weighted-word-mapping) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
