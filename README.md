@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3731-find-missing-elements](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3838-weighted-word-mapping](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
