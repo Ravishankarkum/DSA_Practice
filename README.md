@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0260-single-number-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0565-array-nesting](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
 |  |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2261-k-divisible-elements-subarrays) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
