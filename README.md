@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [4024-nearest-available-drone](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2427-number-of-common-factors) |
 | [3804-number-of-centered-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [4024-nearest-available-drone](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4024-nearest-available-drone) |
 ## Bit Manipulation
 |  |
 | ------- |
