@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
