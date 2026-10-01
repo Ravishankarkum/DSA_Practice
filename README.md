@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [4024-nearest-available-drone](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4024-nearest-available-drone) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Queue
 |  |
 | ------- |
@@ -203,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1143-longest-common-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ravishankarkum/DSA_Practice/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
