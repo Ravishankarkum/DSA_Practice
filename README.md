@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0565-array-nesting](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0565-array-nesting) |
+| [0624-maximum-distance-in-arrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
