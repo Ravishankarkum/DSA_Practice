@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2261-k-divisible-elements-subarrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Number Theory
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0633-sum-of-square-numbers) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
