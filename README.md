@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2364-count-number-of-bad-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3804-number-of-centered-subarrays) |
@@ -242,5 +244,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/3477-fruits-into-baskets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
