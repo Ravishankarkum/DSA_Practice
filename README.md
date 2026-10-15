@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2364-count-number-of-bad-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/Ravishankarkum/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Number Theory
