@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0525-contiguous-array) |
 | [0565-array-nesting](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0565-array-nesting) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ravishankarkum/DSA_Practice/tree/master/1991-find-the-middle-index-in-array) |
